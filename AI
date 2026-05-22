@@ -2,7 +2,7 @@
 // Jalankan dengan:
 // javac Main.java
 // java Main
-
+Halo ges
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
